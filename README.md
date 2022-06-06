@@ -1,5 +1,5 @@
 # text-file-parser-api
-An application to parse the text files and expose an HTTP API to serve the files.
+An application to parse text files and expose an HTTP API to serve the files.
 
 The Microsoft tutorial for Docker in Visual Studio Code was invaluable for me to learn how
 to use Docker with Flask and Python: https://docs.microsoft.com/en-us/visualstudio/docker/tutorials/docker-tutorial
