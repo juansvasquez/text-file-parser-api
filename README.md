@@ -17,8 +17,11 @@ The general path my project took was:
 Things I could have done better/expand upon if I wanted to upgrade the project:
 
 -Better error handling, such as in case the POST JSON has more keys than the required filename/from/to
+
 -Checking that the ISO date can exist eg february 29th
+
 -Accounting for ISO date + timezones
+
 -There's always more edge cases I didn't think of!
 
 
